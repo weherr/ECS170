@@ -1,0 +1,10 @@
+seed 1:
+PathCost, 416.0625, Uncovered, 55684, TimeTaken, 701
+seed 2:
+PathCost, 404.34375, Uncovered, 51523, TimeTaken, 623
+seed 3:
+PathCost, 396.15625, Uncovered, 55706, TimeTaken, 674
+seed 4:
+PathCost, 419.453125, Uncovered, 51176, TimeTaken, 660
+seed 5:
+PathCost, 378.875, Uncovered, 53412, TimeTaken, 654
